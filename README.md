@@ -13,9 +13,12 @@
  ![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-%2312034F?style=for-the-badge&logo=adobephotoshop) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Static Badge](https://img.shields.io/badge/Obsidian-%23996FEB?style=for-the-badge&logo=obsidian)
 
 # 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=Guilhermwn&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Guilhermwn&theme=midnight-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermwn&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilhermwn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilhermwn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilhermwn&theme=midnight-purple&hide_border=true" height="100"/>
+</div>
+
 
 ### 🔝 Repositório mais contribuído
 ![](https://github-contributor-stats.vercel.app/api?username=Guilhermwn&limit=5&theme=radical&combine_all_yearly_contributions=true)
@@ -24,3 +27,5 @@
 [![](https://visitcount.itsvg.in/api?id=Guilhermwn&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
