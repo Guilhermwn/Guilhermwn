@@ -13,8 +13,8 @@
  ![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-%2312034F?style=for-the-badge&logo=adobephotoshop) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Static Badge](https://img.shields.io/badge/Obsidian-%23996FEB?style=for-the-badge&logo=obsidian)
 
 # 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=Guilhermwn&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Guilhermwn&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Guilhermwn&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Guilhermwn&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermwn&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Repositório mais contribuído
