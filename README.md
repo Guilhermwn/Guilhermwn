@@ -14,18 +14,16 @@
 
 # 📊 Estatísticas do GitHub:
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilhermwn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilhermwn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="130" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilhermwn&theme=midnight-purple&hide_border=true" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilhermwn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilhermwn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="200" alt="languages graph"  /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilhermwn&theme=midnight-purple&hide_border=true" height="189"/>
 </div>
 
 
 ### 🔝 Repositório mais contribuído
-![](https://github-contributor-stats.vercel.app/api?username=Guilhermwn&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Guilhermwn&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Guilhermwn&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
