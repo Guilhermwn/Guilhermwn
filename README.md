@@ -25,4 +25,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Guilhermwn&icon=2&color=6)](https://visitcount.itsvg.in) 
 
+Tempo codando no Wakatime: [![wakatime](https://wakatime.com/badge/user/93742499-5bb0-42de-ba0d-0fdaa409f6b3.svg)](https://wakatime.com/@93742499-5bb0-42de-ba0d-0fdaa409f6b3)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
